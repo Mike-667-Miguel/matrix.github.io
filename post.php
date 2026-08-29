@@ -77,6 +77,5 @@ if ($login_exitoso) {
         </main>
     </body>
     </html>
-    <?php
 }
-?>
+
